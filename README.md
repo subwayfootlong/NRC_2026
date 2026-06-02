@@ -22,6 +22,12 @@ Depending on your interest, please navigate to the respective sections below:
 
 ---
 
+## 📋 Live Project Tracking
+To see our day-to-day task progress, engineering sprints, and current development status for the competition, check out our live project board:
+👉 **[Team NRC 2026 Live Kanban Board](https://github.com/users/subwayfootlong/projects/3/views/1)**
+
+---
+
 ## 🛠️ Hardware & Environment Requirements
 * **Platform:** LEGO SPIKE Prime
 * **Firmware:** Hub OS v3.0 or higher

@@ -4,6 +4,12 @@ Welcome to the lesson tracking repository. This document serves as a rolling log
 
 ---
 
+## 📊 Live Progress Tracker
+We use a digital Kanban board to teach the students project management and task accountability. You can view our live progress, completed milestones, and upcoming competition tasks here:
+👉 **[View Our Live Competition Progress Board](https://github.com/users/subwayfootlong/projects/3/views/1)**
+
+---
+
 ## 📅 Lesson History & Milestones
 
 | Lesson | Date | Core Topic | Key Takeaway / Hands-On Activity |
@@ -22,7 +28,7 @@ In this foundational session, we transitioned from basic timing-based movements 
 * **The Technology:** Introduced the **Internal Gyroscope Sensor** to detect spatial orientation and heading drift.
 * **Engineering Challenges:**
     * Overcoming the $+180^\circ$ to $-180^\circ$ sensor "boundary flip" when the robot spins fully around.
-    * Implementing a **Proportional (P) Controller** to dynamically adjust motor speeds ($S \pm PID$) on the fly to correct steering errors.
+    * Implementing a Closed-Loop Controller to dynamically adjust motor speeds on the fly to correct steering errors.
 
 ---
 
@@ -34,10 +40,3 @@ This session shifted focus from navigation to active field interaction, focusing
 * **Engineering Challenges:**
     * **Gear Ratios & Torque:** Finding the sweet spot between a grabber that closes quickly versus one that clamps tightly enough without stalling the motor.
     * **Form Factor:** Adjusting mechanical reach and claw clearance to ensure objects wouldn't slip out during rapid chassis turns.
-
----
-
-## 🛠️ Key Skills Developed So Far
-* **Sensory Feedback Loop:** Programming a robot to "think" based on environmental reading rather than just hardcoded timing.
-* **Mechanical Prototyping:** Structural building using beams, axles, pins, and gears to create high-efficiency manipulators.
-* **Iterative Testing:** Embracing failure as data—testing a design on the field, observing the failure point, and tuning the code or build to fix it.
