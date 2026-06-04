@@ -16,6 +16,8 @@ We use a digital Kanban board to teach the students project management and task 
 | :---: | :--- | :--- | :--- |
 | **1** | 23 May 2026 | Drivetrain Movement & Gyroscopic Precision | Mastered straight-line driving using closed-loop sensor feedback. |
 | **2** | 30 May 2026 | Manipulators & Object Interaction | Designed and prototyped unique, custom grabbing mechanisms. |
+| **3** | 6 June 2026 | Vertical Lifting Mechanisms & Center of Gravity | Explored vertical motorized lifts (rack-and-pinion/arms) to stack blocks without tipping over. |
+| **4** | 13 June 2026 | Color Sensing & Smart Sorting Logic | Programmed color sensors to scan blocks and create an internal memory buffer for sorting. |
 
 ---
 
@@ -40,3 +42,24 @@ This session shifted focus from navigation to active field interaction, focusing
 * **Engineering Challenges:**
     * **Gear Ratios & Torque:** Finding the sweet spot between a grabber that closes quickly versus one that clamps tightly enough without stalling the motor.
     * **Form Factor:** Adjusting mechanical reach and claw clearance to ensure objects wouldn't slip out during rapid chassis turns.
+
+---
+
+### 📘 Lesson 3: Vertical Lifting Mechanisms & Center of Gravity (6 June 2026)
+This session expands on physical manipulators, moving away from simple grabbing to high-altitude stacking mechanisms necessary for this year's block task.
+
+* **The Core Concept:** Converting rotational motor motion into vertical linear lift travel using structural components (such as rack-and-pinion tracks, dual-axis lift linkages, or scissor extensions).
+* **Engineering Challenges:**
+    * **Center of Gravity (CoG) Shift:** As the lift ascends with a payload, the robot’s center of mass shifts upward and forward. Students must design counterweights or balance the battery placement to prevent the robot from tipping over forward when stacking.
+    * **Friction & Binding:** Managing linear alignment so the elevator tracks slide smoothly without catching under heavy block loads.
+
+---
+
+### 📘 Lesson 4: Color Sensing & Smart Sorting Logic (13 June 2026)
+This session prepares the software base to handle the randomized target blocks on the game field.
+
+* **The Core Concept:** Transitioning the robot from blind navigation to autonomous decision-making using active color scanning.
+* **The Technology:** Leveraging the hardware **Color Sensor** to distinguish and record surface/block reflections.
+* **Engineering Challenges:**
+    * **Ambient Light Variance:** Calibrating sensor read reliability to handle differences in external overhead light settings.
+    * **Memory Buffering Logic:** Programming the robot to temporarily hold an object in a physical "buffer zone" while evaluating its color array against an internal memory rule before driving to its matching drop stack location.
