@@ -13,7 +13,7 @@ Depending on your interest, please navigate to the respective sections below:
   Discover what concepts the students explored each week, the specific mechanical engineering challenges they solved, and the core skills they are developing.
 
 ### 💻 For Students, Teachers & Reviewers
-* **[Technical Math & Implementation Explanations (codes/)](./codes/README.md)**
+* **[Code & Explanations (codes/)](./codes/README.md)**
   The code that we will be building for NRC 2026.
 
 ### 📜 Open Source & Attributions
