@@ -16,8 +16,9 @@ We use a digital Kanban board to teach the students project management and task 
 | :---: | :--- | :--- | :--- |
 | **1** | 23 May 2026 | Drivetrain Movement & Gyroscopic Precision | Mastered straight-line driving using closed-loop sensor feedback. |
 | **2** | 30 May 2026 | Manipulators & Object Interaction | Designed and prototyped unique, custom grabbing mechanisms. |
-| **3** | 6 June 2026 | Vertical Lifting Mechanisms & Center of Gravity | Explored vertical motorized lifts (rack-and-pinion/arms) to stack blocks without tipping over. |
-| **4** | 13 June 2026 | Color Sensing & Smart Sorting Logic | Programmed color sensors to scan blocks and create an internal memory buffer for sorting. |
+| **3** | 6 June 2026 | PLayfield Familiarisation | Stratergised and learnt about the playfield |
+| **4** |13 June 2026 | Vertical Lifting Mechanisms & Center of Gravity | Explored vertical motorized lifts (rack-and-pinion/arms) to stack blocks without tipping over. |
+| **5** | 20 June 2026 | Color Sensing & Smart Sorting Logic | Programmed color sensors to scan blocks and create an internal memory buffer for sorting. |
 
 ---
 
@@ -45,7 +46,22 @@ This session shifted focus from navigation to active field interaction, focusing
 
 ---
 
-### 📘 Lesson 3: Vertical Lifting Mechanisms & Center of Gravity (6 June 2026)
+---
+
+### 📘 Lesson 3: Playfield Familiarization & Strategy (6 June 2026)
+
+This session shifts the focus to spatial awareness, rules interpretation, and strategic positioning on the competitive field to optimize autonomous and manual point scoring.
+
+* **The Core Concept:** Mapping out the playfield's physical boundaries, scoring zones.
+* **Engineering & Tactical Challenges:**
+* **Spatial Optimization:** Finding the most efficient paths between loading zones and scoring goals to minimize cycle times and avoid defensive interference.
+* **Strategic Constraints:** Different Stratergies have different pros and cons
+
+
+
+---
+
+### 📘 Lesson 4: Vertical Lifting Mechanisms & Center of Gravity (13 June 2026)
 This session expands on physical manipulators, moving away from simple grabbing to high-altitude stacking mechanisms necessary for this year's block task.
 
 * **The Core Concept:** Converting rotational motor motion into vertical linear lift travel using structural components (such as rack-and-pinion tracks, dual-axis lift linkages, or scissor extensions).
@@ -55,7 +71,7 @@ This session expands on physical manipulators, moving away from simple grabbing 
 
 ---
 
-### 📘 Lesson 4: Color Sensing & Smart Sorting Logic (13 June 2026)
+### 📘 Lesson 5: Color Sensing & Smart Sorting Logic (20 June 2026)
 This session prepares the software base to handle the randomized target blocks on the game field.
 
 * **The Core Concept:** Transitioning the robot from blind navigation to autonomous decision-making using active color scanning.
