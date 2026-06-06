@@ -15,6 +15,8 @@ Depending on your interest, please navigate to the respective sections below:
 ### 💻 For Students, Teachers & Reviewers
 * **[Code & Explanations (codes/)](./codes/README.md)**
   The code that we will be building for NRC 2026.
+* **[Game Rulebook & Strategy (rulebook/)](./rulebook/README.md)**
+  A direct breakdown of the 2026 competition rules.
 
 ### 📜 Open Source & Attributions
 * **[Credits & Code Acknowledgments (credits/)](./credits/README.md)**
@@ -26,9 +28,12 @@ Depending on your interest, please navigate to the respective sections below:
 To see our day-to-day task progress, engineering sprints, and current development status for the competition, check out our live project board:
 👉 **[Team NRC 2026 Live Kanban Board](https://github.com/users/subwayfootlong/projects/3/views/1)**
 
+
 ---
 
 ## 🛠️ Hardware & Environment Requirements
 * **Platform:** LEGO SPIKE Prime
 * **Firmware:** Hub OS v3.0 or higher
 * **Languages Used:** SPIKE Word Blocks (.llsp3)
+
+---
