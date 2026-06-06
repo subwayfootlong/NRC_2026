@@ -16,7 +16,7 @@ We use a digital Kanban board to teach the students project management and task 
 | :---: | :--- | :--- | :--- |
 | **1** | 23 May 2026 | Drivetrain Movement & Gyroscopic Precision | Mastered straight-line driving using closed-loop sensor feedback. |
 | **2** | 30 May 2026 | Manipulators & Object Interaction | Designed and prototyped unique, custom grabbing mechanisms. |
-| **3** | 6 June 2026 | PLayfield Familiarisation | Stratergised and learnt about the playfield |
+| **3** | 6 June 2026 | Playfield Familiarisation | Learnt about the rules, the game objects and stratergised a plan. |
 | **4** |13 June 2026 | Vertical Lifting Mechanisms & Center of Gravity | Explored vertical motorized lifts (rack-and-pinion/arms) to stack blocks without tipping over. |
 | **5** | 20 June 2026 | Color Sensing & Smart Sorting Logic | Programmed color sensors to scan blocks and create an internal memory buffer for sorting. |
 
@@ -46,18 +46,14 @@ This session shifted focus from navigation to active field interaction, focusing
 
 ---
 
----
-
 ### 📘 Lesson 3: Playfield Familiarization & Strategy (6 June 2026)
 
-This session shifts the focus to spatial awareness, rules interpretation, and strategic positioning on the competitive field to optimize autonomous and manual point scoring.
+This session shifts the focus to spatial awareness, rules interpretation, and strategic debate, encouraging students to critically analyze and defend their tactical approaches to the competitive field.
 
-* **The Core Concept:** Mapping out the playfield's physical boundaries, scoring zones.
+* **The Core Concept:** Evaluating risk versus reward through collaborative strategy formation, forcing students to weigh immediate, low-scoring certainties against high-yield, high-risk maneuvers.
 * **Engineering & Tactical Challenges:**
-* **Spatial Optimization:** Finding the most efficient paths between loading zones and scoring goals to minimize cycle times and avoid defensive interference.
-* **Strategic Constraints:** Different Stratergies have different pros and cons
-
-
+* **The Efficiency vs. Risk Dilemma:** Navigating intense team debates on whether to prioritize a "safe and steady" approach (clearing simple tasks first for guaranteed, lower points) or an aggressive, high-risk strategy (tackling complex tasks immediately for a massive point advantage).
+* **Task Sequencing & Concurrency:** Analyzing optimal pathing and workflow—deciding whether the robot should attempt tasks sequentially (one by one for precision) or concurrently (multitasking to maximize efficiency within the match time limit).
 
 ---
 
