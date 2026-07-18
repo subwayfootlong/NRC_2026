@@ -21,6 +21,9 @@ We use a digital Kanban board to teach the students project management and task 
 | **4** | 13 June 2026 | Vertical Lifting Mechanisms & CoG | Explored vertical motorized lifts to stack blocks without tipping. |
 | **5** | 20 June 2026 | Color Sensing & Smart Sorting Logic | Programmed sensors to scan blocks and create an internal memory buffer. |
 | **6** | 27 June 2026 | Hardware Iteration & Navigation | Refined chassis stability and implemented open-source navigation. |
+| **7** | 4 July 2026 | Hardware Iteration | Attempted to resolve movement reliability by adjusting Center of Gravity (CoG) and wheel positioning. |
+| **8** | 11 July 2026 | Hardware Iteration | Continued efforts to stabilize movement through further CoG and wheel configuration refinements. |
+| **9** | 18 July 2026 | Coding Tasks | Starting to solve all the NRC Tasks. |
 
 ---
 
@@ -68,5 +71,25 @@ This session focused on refining the physical integrity of the chassis and maste
 * **Concept learnt:** Bridging the gap between structural stability—specifically regarding the robot's **Center of Gravity (CoG)**—and reliable software execution via open-source movement libraries.
 * **Challenges experienced:** Auditing mechanical gear slippage caused by an unstable CoG and mapping hardware motor ports to match the requirements of the new navigation code.
 
+### Lesson 7: Hardware Iteration (4 July 2026)
+
+This session focused on troubleshooting persistent movement reliability issues.
+
+* **Concept learnt:** The direct correlation between chassis weight distribution and driving base
+* **Challenges experienced:** Identifying whether the instability stems from weight distribution or wheel grip, leading to initial adjustments in the robot's physical configuration.
+
+### Lesson 8: Hardware Iteration (11 July 2026)
+
+This session served as a continuation of the previous week
+
+* **Concept learnt:** Methodical iteration of physical hardware components to isolate mechanical failure points.
+* **Challenges experienced:** Continuing to refine wheel positions and shifting the Center of Gravity (CoG) to ensure the robot maintains predictable movement patterns during autonomous tasks.
+* **Solved** Adding weight solves center of gravity problem
+
+### Lesson 9: Coding Tasks (18 July 2026)
+
+Trying to solve all the tasks for NRC 2026
+
+* **Currently at** : Yellow Blocks
 ---
 
