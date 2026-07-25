@@ -24,7 +24,7 @@ We use a digital Kanban board to teach the students project management and task 
 | **7** | 4 July 2026 | Hardware Iteration | Attempted to resolve movement reliability by adjusting Center of Gravity (CoG) and wheel positioning. |
 | **8** | 11 July 2026 | Hardware Iteration | Continued efforts to stabilize movement through further CoG and wheel configuration refinements. |
 | **9** | 18 July 2026 | Coding Tasks | Starting to solve all the NRC Tasks. |
-| **10** | 25 July 2026 | Coding Tasks | Part 2 of solving all NRC Tasks. |
+| **10** | 25 July 2026 | Coding Tasks | 2/5 big blocks done. |
 
 ---
 
@@ -97,6 +97,6 @@ Trying to solve all the tasks for NRC 2026
 
 Trying to solve all the tasks for NRC 2026
 
-* **Currently at** : 2/5 Colors Done
+* **Currently at** : Currently Doing pink block task
 ---
 
