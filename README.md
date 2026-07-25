@@ -1,6 +1,6 @@
 # 🤖 National Robotics Competition (NRC) 2026 Framework & Curriculum
 
-Welcome to Team _____ NRC Repo
+Welcome to Team Nothing But Regular NRC Repo
 
 ---
 
