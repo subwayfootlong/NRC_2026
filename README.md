@@ -13,8 +13,10 @@ Depending on your interest, please navigate to the respective sections below:
   Discover what concepts the students explored each week, the specific mechanical engineering challenges they solved, and the core skills they are developing.
 
 ### 💻 For Students, Teachers & Reviewers
-* **[Code & Explanations (codes/)](./codes/README.md)**
+* **[Robot Run Code (codes/Run/)](./codes/Run)**
   The code that we will be building for NRC 2026.
+* **[Code & Explanations (codes/templates)](./codes/templates/README.md)**
+  The template codes that we used to build up our foundation
 * **[Game Rulebook & Strategy (rulebook/)](./rulebook/README.md)**
   A direct breakdown of the 2026 competition rules.
 
